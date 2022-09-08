@@ -1,6 +1,6 @@
 <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="tx_documentviewer_style.index" %>
 
-<%@ Register assembly="TXDocumentServer, Version=25.0.1100.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638" namespace="TXTextControl.DocumentServer.Web" tagprefix="cc1" %>
+<%@ Register assembly="TXDocumentServer.Web.DocumentViewer" namespace="TXTextControl.DocumentServer.Web" tagprefix="cc1" %>
 
 <!DOCTYPE html>
 
